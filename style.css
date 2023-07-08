@@ -1,0 +1,14 @@
+body
+{
+    box-shadow: 5px, 5px, 5px, red;
+    padding: 20px;
+    margin: 5px;
+}
+
+canvas
+{
+    box-shadow: 5px, 5px, 5px, grey;
+    padding: 20px;
+    margin:5px;
+    border: 15px;
+}
